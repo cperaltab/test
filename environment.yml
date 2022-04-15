@@ -1,4 +1,4 @@
-name: ee
+name: OBIS data management
 channels:
   - conda-forge
 dependencies:
