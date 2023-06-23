@@ -1,3 +1,3 @@
 prueba 
 
-markdown sintaxt
+use markdown sintaxt for document formatting
